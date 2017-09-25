@@ -7,7 +7,7 @@
     </head>
     <body>
         
-        <p>Adios</p> 
+        <p>Agur</p>
 
 	<?php if($_POST)
     		echo  $_POST['nombre']. " tienes " .$_POST['edad']; ?>
